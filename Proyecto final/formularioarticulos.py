@@ -97,6 +97,8 @@ class formularioarticulos:
 aplicacion1=formularioarticulos()
 
 
+
+
          
 
 
